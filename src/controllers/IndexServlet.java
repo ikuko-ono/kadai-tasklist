@@ -38,5 +38,4 @@ public class IndexServlet extends HttpServlet {
 
         em.close();
     }
-
 }
